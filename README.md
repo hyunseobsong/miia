@@ -16,7 +16,7 @@ To get started, move to the installation folder and type
 ```matlab
 runMiia
 ```
-You can test with different datasets by comment/uncomment the line 7 to 9.
+You can test with different datasets by commenting/uncommenting  lines 7 to 9.
 ```matlab
 % dataSource = 'tutorial';
 dataSource = 'friedman'; 
