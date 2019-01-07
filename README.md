@@ -1,7 +1,7 @@
 # Minimal Interspecies Interaction Adjustment (MIIA)
 MIIA is a network inference tool for predicting member-dependent interactions in microbial communities, which can deepen our understanding of the organization principles in ecological communities.
 
-The manuscript of MIIA has been submitted to *Bioinformatics* for publication and this repository contains the MATLAB code and datasets used for evaluating the tool. 
+The manuscript of MIIA has been submitted to *Frontiers in Microbiology* for publication and this repository contains the MATLAB code and datasets used for evaluating the tool. 
 
 ## System requirements
 Matlab R2015b+ in Windows, Mac OS, Linux
@@ -43,7 +43,7 @@ dataSource = 'glv'
 File name has the following format: glv_S_r_alpha_beta_trial.mat (S = # of species; r = growth rate; alpha = std of binary interaction coefficients, beta = std of interaction coefficients in complex communities deviating from binary coefficients; trial = # of random trials). 
 
 ## Citation
-Hyun-Seob Song, *et al.*,``Minimal Interspecies Interaction Adjustment (MIIA): inference of member-dependent interactions in microbiomes,`` *Bioinformatics*, submitted.
+Hyun-Seob Song, *et al.*,``Minimal Interspecies Interaction Adjustment (MIIA): inference of member-dependent interactions in microbiomes,`` *Frontiers in Microbiology*, submitted.
 
 ## Contacts
 Hyun-Seob Song (hyunsbong@gmail.com, or hyunseob.song@pnnl.gov)
