@@ -43,7 +43,8 @@ dataSource = 'glv'
 File name has the following format: glv_S_r_alpha_beta_trial.mat (S = # of species; r = growth rate; alpha = std of binary interaction coefficients, beta = std of interaction coefficients in complex communities deviating from binary coefficients; trial = # of random trials). 
 
 ## Citation
-Hyun-Seob Song, *et al.*,``Minimal Interspecies Interaction Adjustment (MIIA): inference of member-dependent interactions in microbiomes,`` *Frontiers in Microbiology*, submitted.
+Hyun-Seob Song, *et al.*,``Minimal Interspecies Interaction Adjustment (MIIA): inference of member-dependent interactions in microbiomes,`` *Frontiers in Microbiology*, 10, 1264.
+https://www.frontiersin.org/articles/10.3389/fmicb.2019.01264/full
 
 ## Contacts
-Hyun-Seob Song (hyunsbong@gmail.com, or hyunseob.song@pnnl.gov)
+Hyun-Seob Song (hsong5@unl.edu or hyunsbong@gmail.com)
