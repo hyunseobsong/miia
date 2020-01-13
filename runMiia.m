@@ -3,17 +3,18 @@ clc
 % close all
 %==========================================================================
 % Original MIIA: when species abundance data in axenic, binary, and complex
-communities is fully available.
+% communities is fully available.
 % inferenceRule = 'miia1';
+
 % Scaled MIIA: when only data from axenic cultures are unavailable, to pre-
-dict neighbor-dependent interactions in a relative sense
+% dict neighbor-dependent interactions in a relative sense
 inferenceRule = 'miia2';
 %------------------------
-dataSource = 'kato';
-% dataSource = 'wang';
-% dataSource = 'friedman';
 % dataSource = 'tutorial';
+% dataSource = 'friedman';
 % dataSource = 'glv';
+% dataSource = 'wang';
+dataSource = 'kato';
 %------------------------
 force2Zero = true; % if set unidentifiable binary coeffs to 0
 %==========================================================================

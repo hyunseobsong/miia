@@ -66,10 +66,10 @@ dataSource = 'kato'
 Datasets for four-member species isolated from a cellulose-degrading bacterial community enriched from a composting process, collected by [Kato *et al.* (2008)](https://doi.org/10.1007/s00248-007-9357-4).
 
 ## Citation
-[1] Hyun-Seob Song, *et al.*,``Minimal Interspecies Interaction Adjustment (MIIA): inference of member-dependent interactions in microbiomes,`` *Frontiers in Microbiology*, 10, 1264.
+[1] Hyun-Seob Song, *et al.* (2019),``Minimal Interspecies Interaction Adjustment (MIIA): inference of member-dependent interactions in microbiomes,`` *Frontiers in Microbiology*, 10, 1264.
 https://www.frontiersin.org/articles/10.3389/fmicb.2019.01264
 
-[2] Joon-Yong Lee, *et al.*,``Prediction of Neighbor-dependent Microbial Interactions from Limited Population Data,`` *Frontiers in Microbiology*, in press.
+[2] Joon-Yong Lee, *et al.* (2020),``Prediction of Neighbor-dependent Microbial Interactions from Limited Population Data,`` *Frontiers in Microbiology*, in press.
 https://www.frontiersin.org/articles/10.3389/fmicb.2019.03049
 
 ## Contacts
