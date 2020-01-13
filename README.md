@@ -73,5 +73,4 @@ https://www.frontiersin.org/articles/10.3389/fmicb.2019.01264
 https://www.frontiersin.org/articles/10.3389/fmicb.2019.03049
 
 ## Contacts
-Hyun-Seob Song (hsong5@unl.edu)
-Joon-Yong Lee (joonyong.lee@pnnl.gov)
+Hyun-Seob Song (hsong5@unl.edu); Joon-Yong Lee (joonyong.lee@pnnl.gov)
